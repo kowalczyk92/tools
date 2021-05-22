@@ -1,4 +1,4 @@
-package pl.kowalczyk92.tools_lib
+package pl.kowalczyk92.tools
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

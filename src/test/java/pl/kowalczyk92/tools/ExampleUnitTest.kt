@@ -1,4 +1,4 @@
-package pl.kowalczyk92.tools_lib
+package pl.kowalczyk92.tools
 
 import org.junit.Test
 
