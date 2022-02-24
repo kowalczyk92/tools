@@ -17,7 +17,7 @@ fun Activity.showKeyboard(editText: EditText) {
     imm?.showSoftInput(editText, 0)
 }
 
-
+aaaaaaaaaaaaaaaaaaaaa
 
 
 
