@@ -16,3 +16,9 @@ fun Activity.showKeyboard(editText: EditText) {
     val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as? InputMethodManager
     imm?.showSoftInput(editText, 0)
 }
+
+
+
+
+
+
